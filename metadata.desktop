@@ -1,12 +1,12 @@
 [Desktop Entry]
-Name=Windows 8
-Comment=Windows 8 decoration clone
+Name=Enlightenment DR13
+Comment=Enlightenment DR13 decoration clone
 
 X-Plasma-MainScript=main.qml
 X-Plasma-ServiceType=KWin/Decoration
 X-KDE-PluginInfo-Author=Demitrius Belai
 X-KDE-PluginInfo-Email=demitriusbelai@gmail.com
-X-KDE-PluginInfo-Name=kwin_win8
+X-KDE-PluginInfo-Name=kwin_e13
 X-KDE-PluginInfo-Version=1.0
 
 X-KDE-PluginInfo-Depends=
